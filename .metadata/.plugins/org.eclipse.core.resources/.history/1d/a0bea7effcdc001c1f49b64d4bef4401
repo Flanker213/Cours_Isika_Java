@@ -1,0 +1,45 @@
+package fr.isika.cda10.nombresintervalles.app;
+
+public class NombresEtIntervalles {
+
+	public static void main(String[] args) {
+		/*
+		 * Exercice : Structures conditonnelles avec prédicats
+		 * 
+		 *  - Ecrire un programme qui permet de d�terminer si une valeur appartient � un intervalle.
+		 *    Pour l'exercice, les valeurs seront fixées dans le programme.
+		 *
+		 * VARIANTE A FAIRE AUSSI (pas corrigée)
+		 * 	- Le même programme doit aussi pouvoir d�terminer si deux intervalles se coupent, avec tous les cas de figure pris en compte.
+		 * 
+		 *   Considérez les intervalles : 
+		 *      
+		 *   [ firstIntervalMinLimit, firstIntervalMaxLimit ]
+		 *   [ secondIntervalMinLimit, secondIntervalMaxLimit ] 
+		 *   
+		 * Rappel sur les blocs conditionnels 
+		 * ------------------------------------------------------
+		 * 
+		 * 1 / Op�rateur && => ET 
+		 * 
+		 * 	if (condition1 && condition2) {
+		 *  
+		 *  	... ce code s'ex�cute si les deux conditions sont vraies
+		 *   
+		 * 	}
+		 * 
+		 * 2 / Opérateur || => OU 
+		 * 
+		 * 	if (condition1 || condition2) {
+		 *  	... ce code s'ex�cute si l'une des deux condition est vraie, dans l'ordre
+		 * 	}
+		 * 
+		 * 3 / Combinaisons avec OU / ET avec plusieurs conditions (il faut voir la truth table, loi de morgan)
+		 * ------------------
+		 *  if ( cond1 && cond2 ) || (cond3 && cond4) || cond5) { .... } 
+		 *  
+		 */
+
+	}
+
+}
