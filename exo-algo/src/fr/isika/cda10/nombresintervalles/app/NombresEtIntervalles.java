@@ -45,5 +45,4 @@ public class NombresEtIntervalles {
 		scanner2.close();
 		scanner3.close();
 	}
-	
 }
